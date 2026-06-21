@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2588f64-b19c-40b2-bc02-d8961b84a4c1" />## Hi there 👋
+## Hi there 👋
 
 I can stare up twenty-four/seven &nbsp; `(_/-_-\_)` ...
 
