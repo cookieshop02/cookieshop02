@@ -1,8 +1,9 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2588f64-b19c-40b2-bc02-d8961b84a4c1" />## Hi there 👋
+
+I can stare up twenty-four/seven &nbsp; `(_/-_-\_)` ...
 
 ![banner](https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif)
 
-I can stare up twenty-four/seven &nbsp; `(_/-_-\_)` ...
 
 <!--
 **cookieshop02/cookieshop02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning memory systems and evals.
 
 
