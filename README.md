@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I can stare up twenty-four/seven &nbsp; `(_/-_-\_)` ...
 
-![banner](https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif)
 
 
 <!--
 **cookieshop02/cookieshop02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I can stare up twenty-four/seven &nbsp; `(_/-_-\_)` ...
+
+![banner](https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif)
 
 Here are some ideas to get you started:
 
